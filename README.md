@@ -19,10 +19,8 @@ For this assigment, deployment web at Netlify :
 ## Stack
 
 Summary of what the stack looks like now including a picture with the core tech:
-![Stack](./Assets/stack.jpg)
 
 * **Front-end** - HTML, CSS, Javascript
 
-## License Summary
+![Stack](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
 
-This sample code is made available under the MIT-0 license. See the LICENSE file.
